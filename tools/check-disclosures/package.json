@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@actions/core": "^1.2.4",
-    "ajv": "^6.12.2",
+    "ajv": "^6.12.3",
     "fdir": "^3.4.3",
     "json-source-map": "^0.6.1"
   },
